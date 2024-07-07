@@ -3,9 +3,9 @@
   <tr>
     <td>
       <h1>Shaolei Wu</h1>
-      <p><b>Master</b></p>
-      <p><b>College of ××, ×× University</b></p>
-      <p><b>E-mail：1234567789@qq.com</b></p>
+      <p><b>Graduate</b></p>
+      <p><b>Guangdong University of Science and Technology</b></p>
+      <p><b>E-mail：slwu19@163.com</b></p>
       <p><b>Address：No. 2, Songshan Lake Section, Dongyuan Avenue, Songshan Lake High-tech Development Zone, Dongguan City, 523668 </b></p>
       <a href="/index.html">中文版</a>
     </td>
